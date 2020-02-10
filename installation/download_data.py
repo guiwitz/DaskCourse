@@ -10,5 +10,5 @@ if not os.path.exists(where_to_save):
     os.makedirs(where_to_save)
     
 #import Klee painting
-url = 'https://img.myswitzerland.com/671846/407'  
-urllib.request.urlretrieve(url, where_to_save+'Klee.jpg')
+url = 'https://raw.githubusercontent.com/guiwitz/Rdatasets/master/csv/mosaicData/Birthdays.csv'  
+urllib.request.urlretrieve(url, where_to_save+'Birthdays.csv')

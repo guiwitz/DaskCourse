@@ -1,7 +1,7 @@
 python installation/download_data.py
 
 mkdir DaskCourse
-mv *.ipynb /DaskCourse
+mv *.ipynb DaskCourse
 
 #jupyter labextension install dask-labextension --no-build
 #jupyter labextension install @jupyter-widgets/jupyterlab-manager --no-build

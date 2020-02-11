@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - dask
+  - dask-image
   - pip
   - numpy
   - matplotlib
@@ -15,6 +16,7 @@ dependencies:
   - pip:
     - requests
     - dask_labextension
+    - py7zr
 
 #jupyter labextension install dask-labextension
 #jupyter labextension install @jupyter-widgets/jupyterlab-manager

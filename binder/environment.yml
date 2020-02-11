@@ -4,6 +4,7 @@ channels:
 dependencies:
   - dask
   - dask-image
+  - dask-ml
   - pip
   - numpy
   - matplotlib

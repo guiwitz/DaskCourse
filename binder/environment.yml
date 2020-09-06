@@ -1,19 +1,25 @@
 name: dask_course
 channels:
   - conda-forge
+  - bokeh
 dependencies:
   - dask
   - dask-image
   - dask-ml
+  - distributed
   - pip
   - numpy
-  - matplotlib
-  - scikit-image
-  - jupyter
-  - jupyterlab
-  - ipywidgets
   - pandas
+  - scikit-image
+  - matplotlib
+  - scipy
+  - jupyter
+  - jupyterlab>2.0.0
+  - ipywidgets
   - nodejs
+  - bokeh
+  - bokeh::jupyter_bokeh
+  - python-graphviz
   - pip:
     - requests
     - dask_labextension

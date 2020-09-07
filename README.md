@@ -2,7 +2,7 @@ Small dataset
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/guiwitz/DaskCourse/ef17335d978b5ecbbeed052dc671a0ca599252d1?urlpath=lab)
 
 Large dataset
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/guiwitz/DaskCourse/07c0cda8f965b52c9dc791c75d4802101a2cdb4e?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/guiwitz/DaskCourse/637da4a06c5b6aa3869ac2ce1811b93e57b219ae?urlpath=lab)
 
 
 # Introduction to Dask

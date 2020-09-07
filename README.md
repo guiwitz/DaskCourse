@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/guiwitz/DaskCourse/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/guiwitz/DaskCourse/ef17335d978b5ecbbeed052dc671a0ca599252d1?urlpath=lab)
 
 # Introduction to Dask
 

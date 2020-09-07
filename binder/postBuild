@@ -1,4 +1,4 @@
-python installation/download_data.py
+python installation/download_all.py
 
 mkdir DaskCourse
 mv *.ipynb DaskCourse/

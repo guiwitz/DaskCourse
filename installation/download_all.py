@@ -39,7 +39,7 @@ if not os.path.isdir(where_to_save+'NYC_Taxi'):
 	
 	url = 'https://s3.amazonaws.com/nyc-tlc/misc/taxi+_zone_lookup.csv'
     urllib.request.urlretrieve(url, where_to_save+ 'NYC_Taxi'+ '/' + 'taxi+_zone_lookup.csv')
-        
+    
 #download wikipedia data
 if not os.path.isdir(where_to_save+'20161101-current_content-parts-1-50-pageids-12-117215'):
     url = 'https://zenodo.org/record/834557/files/20161101-current_content-parts-1-50-pageids-12-117215.7z?download=1'

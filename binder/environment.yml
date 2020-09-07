@@ -17,6 +17,7 @@ dependencies:
   - jupyter
   - jupyterlab>2.0.0
   - ipywidgets
+  - jupyter-server-proxy
   - nodejs
   - bokeh
   - bokeh::jupyter_bokeh
